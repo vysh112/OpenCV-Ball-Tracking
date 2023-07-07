@@ -13,4 +13,4 @@ This code demonstrates object tracking using OpenCV. It captures video from a we
 11. If a contour is found and its area is greater than zero:
        - Calculate the enclosing circle and its center.
        - Draw the circle and center on the frame.
-12.Display the original frame and the foreground mask.
+12.Display the original frame and the foreground mask!
